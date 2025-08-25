@@ -14,7 +14,8 @@ body {
   margin: 0 auto;
   padding: 20px;
   display: flex;
-  justify-content: space-around;
+  algin-items: center;
+  justify-content: center;
   text-align: center;
   background: #f7f7f7;
   border-bottom: 5px solid gray;
