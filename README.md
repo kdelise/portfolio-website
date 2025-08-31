@@ -1,5 +1,9 @@
 ## Portfolio Website
-https://github.com/user-attachments/assets/a704abac-221f-454c-b1a5-d2c9ba340efc
+
+
+https://github.com/user-attachments/assets/6d108977-19e2-4b78-8058-e264f028d82f
+
+
 
 This website is a portfolio based website to show my skills as a Computer Science student. This project allowed for me to gain experience with new
 coding languages and understand the fundamentals of them. The skills page shows an estimated bar graph of my coding abilities in percentages. The projects
